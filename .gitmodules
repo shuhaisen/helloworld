@@ -1,0 +1,3 @@
+[submodule "my-first-cangku"]
+	path = my-first-cangku
+	url = https://github.com/shuhaisen/my-first-cangku.git
